@@ -4,12 +4,12 @@
   </a>
 </p>
 
-# meu-primeiro-jogo-multiplayer
+# My First Multiplayer Game
 
-#### *Leia isso em outras línguas.*
-<span style="font-size:2em;">[🇨🇦](translations/README.en.md)</span>
+#### *Read this in other languages.*
+<span style="font-size:2em;">[🇧🇷](../README.md)</span>
 
-Um jogo multiplayer simples o suficiente para qualquer pesssoa aprender conceitos importantes sobre **arquitetura** e **desenvolvimento de software**.
+A multiplayer game simple enough for anyone to learn important concepts of **architecture** and **software development**.
 
 Ele foi projetado de uma forma modificável/hackeável para que você consiga implementar suas próprias idéias ou até reimplementar do zero em outras linguagens. Inclusive este é repositório é um **playground** de experimentos e qualquer tentativa será bem vinda.
 
